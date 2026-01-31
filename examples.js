@@ -18552,8 +18552,8 @@ module.exports = {
         }
       ]
     },
-    "getchar()": {
-      "name": "getchar()",
+    "getchar": {
+      "name": "getchar",
       "description": "",
       "language": "cpp",
       "author": "admin",
